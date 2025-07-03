@@ -213,7 +213,10 @@ export default function CervejarioLanding() {
                   experimentou. Nunca mais esqueça daquela cerveja especial!
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center">
-                  <a href="#" className="transition-transform hover:scale-105">
+                  <a
+                    href="https://play.google.com/store/apps/details?id=br.app.cervejario"
+                    className="transition-transform hover:scale-105"
+                  >
                     <Image
                       src="/images/google-play-badge.png"
                       alt="Disponível no Google Play"
@@ -393,7 +396,10 @@ export default function CervejarioLanding() {
               favoritas. É grátis e fácil de usar!
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-              <a href="#" className="transition-transform hover:scale-105">
+              <a
+                href="https://play.google.com/store/apps/details?id=br.app.cervejario"
+                className="transition-transform hover:scale-105"
+              >
                 <Image
                   src="/images/google-play-badge.png"
                   alt="Disponível no Google Play"

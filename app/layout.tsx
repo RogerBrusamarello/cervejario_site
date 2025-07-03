@@ -3,8 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Cervejário",
-  description: "Created with v0",
-  generator: "v0.dev",
+  description: "Você bebe. O Cervejário lembra.",
   icons: {
     icon: "/favicon.ico",
   },
