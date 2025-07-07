@@ -225,7 +225,10 @@ export default function CervejarioLanding() {
                       className="h-14 w-auto"
                     />
                   </a>
-                  <a href="#" className="transition-transform hover:scale-105">
+                  <a
+                    href="https://apps.apple.com/us/app/cervej%C3%A1rio/id6748159175"
+                    className="transition-transform hover:scale-105"
+                  >
                     <Image
                       src="/images/app-store-badge.png"
                       alt="Download na App Store"
@@ -408,7 +411,10 @@ export default function CervejarioLanding() {
                   className="h-16 w-auto"
                 />
               </a>
-              <a href="#" className="transition-transform hover:scale-105">
+              <a
+                href="https://apps.apple.com/us/app/cervej%C3%A1rio/id6748159175"
+                className="transition-transform hover:scale-105"
+              >
                 <Image
                   src="/images/app-store-badge.png"
                   alt="Download na App Store"
@@ -486,9 +492,9 @@ export default function CervejarioLanding() {
                 <div className="space-y-2">
                   <p className="text-amber-200 flex items-center">
                     <Mail className="h-4 w-4 mr-2" />
-                    suporte@cervejario.app
+                    roger.brusa@bol.com.br
                   </p>
-                  <div className="flex space-x-4 mt-4">
+                  {/* <div className="flex space-x-4 mt-4">
                     <Link href="#" className="text-amber-200 hover:text-white">
                       <Facebook className="h-5 w-5" />
                     </Link>
@@ -498,7 +504,7 @@ export default function CervejarioLanding() {
                     <Link href="#" className="text-amber-200 hover:text-white">
                       <Instagram className="h-5 w-5" />
                     </Link>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
